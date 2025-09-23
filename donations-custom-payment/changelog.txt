@@ -1,0 +1,43 @@
+= 6.2.0 =
+* Improved translation system
+* Enhanced code comments
+* Improved reporting calculations
+
+= 6.1.0 =
+* Enhanced translation system with improved language support
+* Added Settings link on WordPress plugins page for easy access
+* Implemented search and filter functionality in reports section
+* Improved admin panel accessibility and user experience
+* Enhanced product management capabilities
+
+= 5.0.1 =
+* Enhanced virtual product editing capabilities
+* Added product category management
+* Implemented product image upload functionality
+* Improved product customization options
+
+= 4.0.1 =
+* Added comprehensive payment reporting system
+* Enhanced translation support and localization
+* Implemented High-Performance Order Storage (HPOS) compatibility
+* Fixed styling issues and improved visual consistency
+* Added support for amount-containing links
+* Implemented comprehensive guide for amount link usage
+
+= 3.0.0 =
+* Added active WooCommerce currency selection
+* Implemented form text and title editing capabilities
+* Added form style and button customization options
+* Enhanced translation system and localization
+
+= 2.2.0 =
+* Added preset amount suggestions for quick selection
+* Enhanced admin panel styling and visual appeal
+* Implemented comprehensive usage guide and documentation
+* Improved user interface and experience
+
+= 1.0.1 =
+* Implemented amount input form with WooCommerce payment integration
+* Added admin panel for minimum and maximum price configuration
+* Created custom product management system
+* Established core payment form functionality
