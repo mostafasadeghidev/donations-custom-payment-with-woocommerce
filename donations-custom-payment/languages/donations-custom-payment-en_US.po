@@ -1,0 +1,494 @@
+# English translation for Donations & Custom Payment
+# Copyright (C) 2023 Mostafa Sadeghi
+# This file is distributed under the same license as the Donations & Custom Payment package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Donations & Custom Payment 6.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/donations-custom-payment\n"
+"POT-Creation-Date: 2023-12-01 12:00+0000\n"
+"PO-Revision-Date: 2023-12-01 12:00+0000\n"
+"Last-Translator: Mostafa Sadeghi <mostafa@example.com>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Plugin Name and Description translations
+msgid "Donations & Custom Payment"
+msgstr "Donations & Custom Payment"
+
+msgid "Advanced custom payment and donation plugin for WooCommerce - Create flexible payment forms with custom amounts. Perfect for charities, crowdfunding, custom payments, and installment sales. Includes comprehensive reporting system, full color customization, amount-based link support, and responsive design. Use shortcode [custom_payment_form]."
+msgstr "Advanced custom payment and donation plugin for WooCommerce - Create flexible payment forms with custom amounts. Perfect for charities, crowdfunding, custom payments, and installment sales. Includes comprehensive reporting system, full color customization, amount-based link support, and responsive design. Use shortcode [custom_payment_form]."
+
+msgid "پرداخت سفارشی"
+msgstr "Custom Payment"
+
+msgid "Donations & Custom Payment requires WooCommerce to be installed and activated."
+msgstr "Donations & Custom Payment requires WooCommerce to be installed and activated."
+
+msgid "پلاگین پیشرفته پرداخت سفارشی و اهدا به کمک ووکامرس - ایجاد فرم‌های پرداخت انعطاف‌پذیر با مبالغ دلخواه. مناسب برای خیریه‌ها، کراودفاندینگ و پرداخت‌های سفارشی و فروش اقساطی در سایت . شامل سیستم گزارش‌گیری جامع، سفارشی‌سازی کامل رنگ‌ها، پشتیبانی از لینک‌های حاوی مبلغ و طراحی ریسپانسیو. از شورت‌کد [custom_payment_form] استفاده کنید."
+msgstr "Advanced Custom Payment & Donation Plugin with WooCommerce - Create flexible payment forms with custom amounts. Perfect for charities, crowdfunding, custom payments, and installment sales on websites. Features comprehensive reporting system, full color customization, amount-containing links support, and responsive design. Use shortcode [custom_payment_form] anywhere."
+
+msgid "لطفاً مبلغ معتبری بین %1$s تا %2$s %3$s وارد کنید."
+msgstr "Please enter a valid amount between %1$s to %2$s %3$s."
+
+msgid "💳 فرم پرداخت"
+msgstr "💳 Payment Form"
+
+msgid "🚀 ادامه پرداخت"
+msgstr "🚀 Continue Payment"
+
+msgid "💰 مبلغ (به تومان)"
+msgstr "💰 Amount"
+
+msgid "⚡ مبالغ پیشنهادی:"
+msgstr "⚡ Suggested Amounts:"
+
+msgid "حداقل:"
+msgstr "Minimum:"
+
+msgid "حداکثر:"
+msgstr "Maximum:"
+
+msgid "لطفاً مبلغ را وارد کنید."
+msgstr "Please enter the amount."
+
+msgid "مبلغ وارد شده معتبر نیست. لطفاً فقط عدد وارد کنید."
+msgstr "The entered amount is not valid. Please enter only numbers."
+
+msgid "حداقل مبلغ قابل پرداخت %s است."
+msgstr "The minimum payable amount is %s."
+
+msgid "حداکثر مبلغ قابل پرداخت %s است."
+msgstr "The maximum payable amount is %s."
+
+msgid "تنظیمات با موفقیت ذخیره شد!"
+msgstr "Settings saved successfully!"
+
+msgid "⚙️ تنظیمات فرم پرداخت سفارشی"
+msgstr "⚙️ Custom Payment Form Settings"
+
+msgid "📝 نحوه استفاده:"
+msgstr "📝 How to use:"
+
+msgid "⚙️ تنظیمات کلی"
+msgstr "⚙️ General Settings"
+
+msgid "📝 متون و عناوین"
+msgstr "📝 Texts & Labels"
+
+msgid "🎨 رنگ‌ها و طراحی"
+msgstr "🎨 Colors & Design"
+
+msgid "📊 گزارش‌ها"
+msgstr "📊 Reports"
+
+msgid "💰 تنظیمات مبلغ"
+msgstr "💰 Amount Settings"
+
+msgid "💱 اطلاعات ارز فعلی"
+msgstr "💱 Current Currency Information"
+
+msgid "ارز:"
+msgstr "Currency:"
+
+msgid "نماد:"
+msgstr "Symbol:"
+
+msgid "موقعیت:"
+msgstr "Position:"
+
+msgid "راست"
+msgstr "Right"
+
+msgid "چپ"
+msgstr "Left"
+
+msgid "این تنظیمات از ووکامرس خوانده می‌شود. برای تغییر به تنظیمات ووکامرس مراجعه کنید."
+msgstr "These settings are read from WooCommerce. To change, refer to WooCommerce settings."
+
+msgid "حداقل مبلغ (%s):"
+msgstr "Minimum Amount (%s):"
+
+msgid "حداقل مبلغ قابل پرداخت توسط کاربران"
+msgstr "Minimum amount payable by users"
+
+msgid "حداکثر مبلغ (%s):"
+msgstr "Maximum Amount (%s):"
+
+msgid "حداکثر مبلغ قابل پرداخت توسط کاربران"
+msgstr "Maximum amount payable by users"
+
+msgid "🛒 تنظیمات محصول"
+msgstr "🛒 Product Settings"
+
+msgid "نام محصول:"
+msgstr "Product Name:"
+
+msgid "نامی که در سبد خرید و صورتحساب نمایش داده می‌شود"
+msgstr "Name displayed in cart and invoice"
+
+msgid "⚡ مبالغ پیشنهادی"
+msgstr "⚡ Suggested Amounts"
+
+msgid "مبالغ پیشنهادی:"
+msgstr "Suggested Amounts:"
+
+msgid "مبالغ پیشنهادی را با کاما جدا کنید. مثال: %s"
+msgstr "Separate suggested amounts with commas. Example: %s"
+
+msgid "این مبالغ به ارز فعلی شما (%s) نمایش داده خواهند شد."
+msgstr "These amounts will be displayed in your current currency (%s)."
+
+msgid "برای غیرفعال کردن این بخش، محتوا را خالی بگذارید."
+msgstr "To disable this section, leave the content empty."
+
+msgid "📝 تنظیمات متون و عناوین"
+msgstr "📝 Text and Title Settings"
+
+msgid "عنوان فرم:"
+msgstr "Form Title:"
+
+msgid "عنوانی که در بالای فرم نمایش داده می‌شود (می‌توانید emoji استفاده کنید)"
+msgstr "Title displayed at the top of the form (you can use emojis)"
+
+msgid "نمایش عنوان فرم:"
+msgstr "Show Form Title:"
+
+msgid "نمایش دهید"
+msgstr "Show"
+
+msgid "مخفی کنید"
+msgstr "Hide"
+
+msgid "آیا عنوان فرم نمایش داده شود یا نه"
+msgstr "Whether to display the form title or not"
+
+msgid "متن دکمه پرداخت:"
+msgstr "Payment Button Text:"
+
+msgid "متنی که روی دکمه پرداخت نمایش داده می‌شود (می‌توانید emoji استفاده کنید)"
+msgstr "Text displayed on the payment button (you can use emojis)"
+
+msgid "عنوان فیلد مبلغ:"
+msgstr "Amount Field Title:"
+
+msgid "عنوان فیلد ورودی مبلغ (می‌توانید emoji استفاده کنید)"
+msgstr "Title of the amount input field (you can use emojis)"
+
+msgid "نمایش اطلاعات حداقل/حداکثر:"
+msgstr "Show Min/Max Information:"
+
+msgid "آیا اطلاعات حداقل و حداکثر مبلغ زیر فیلد ورودی نمایش داده شود"
+msgstr "Whether to display minimum and maximum amount information below the input field"
+
+msgid "متن توضیحات:"
+msgstr "Description Text:"
+
+msgid "توضیحات اضافی که زیر فیلد مبلغ نمایش داده می‌شود..."
+msgstr "Additional description displayed below the amount field..."
+
+msgid "متن توضیحات که زیر فیلد مبلغ نمایش داده می‌شود. می‌توانید اطلاعات مفید، راهنمایی یا هشدارهای لازم را اینجا بنویسید."
+msgstr "Description text displayed below the amount field. You can write useful information, guidance or necessary warnings here."
+
+msgid "برای خط جدید، Enter بزنید. HTML ساده پشتیبانی می‌شود."
+msgstr "Press Enter for new line. Simple HTML is supported."
+
+msgid "نمایش توضیحات:"
+msgstr "Show Description:"
+
+msgid "آیا متن توضیحات در فرم نمایش داده شود یا نه"
+msgstr "Whether to display the description text in the form or not"
+
+msgid "متن مبالغ پیشنهادی:"
+msgstr "Suggested Amounts Text:"
+
+msgid "متنی که بالای دکمه‌های مبالغ پیشنهادی نمایش داده می‌شود"
+msgstr "Text displayed above the suggested amounts buttons"
+
+msgid "متن حداقل:"
+msgstr "Minimum Text:"
+
+msgid "متن نمایش داده شده قبل از حداقل مبلغ"
+msgstr "Text displayed before the minimum amount"
+
+msgid "متن حداکثر:"
+msgstr "Maximum Text:"
+
+msgid "متن نمایش داده شده قبل از حداکثر مبلغ"
+msgstr "Text displayed before the maximum amount"
+
+msgid "🎨 رنگ‌های پس‌زمینه"
+msgstr "🎨 Background Colors"
+
+msgid "رنگ پس‌زمینه فرم:"
+msgstr "Form Background Color:"
+
+msgid "رنگ پس‌زمینه کل فرم را انتخاب کنید"
+msgstr "Select the background color of the entire form"
+
+msgid "رنگ دکمه پرداخت:"
+msgstr "Payment Button Color:"
+
+msgid "رنگ پس‌زمینه دکمه پرداخت را انتخاب کنید"
+msgstr "Select the background color of the payment button"
+
+msgid "رنگ پس‌زمینه فیلد مبلغ:"
+msgstr "Amount Field Background Color:"
+
+msgid "رنگ پس‌زمینه فیلد ورودی مبلغ را انتخاب کنید"
+msgstr "Select the background color of the amount input field"
+
+msgid "رنگ پس‌زمینه توضیحات:"
+msgstr "Description Background Color:"
+
+msgid "رنگ پس‌زمینه باکس توضیحات"
+msgstr "Background color of the description box"
+
+msgid "✨ رنگ‌های متون"
+msgstr "✨ Text Colors"
+
+msgid "رنگ عنوان فرم:"
+msgstr "Form Title Color:"
+
+msgid "رنگ متن عنوان اصلی فرم"
+msgstr "Color of the main form title text"
+
+msgid "رنگ عنوان فیلد مبلغ:"
+msgstr "Amount Field Label Color:"
+
+msgid "رنگ متن برچسب فیلد ورودی مبلغ"
+msgstr "Color of the amount input field label text"
+
+msgid "رنگ متن ورودی مبلغ:"
+msgstr "Amount Input Text Color:"
+
+msgid "رنگ متنی که کاربر در فیلد مبلغ وارد می‌کند"
+msgstr "Color of the text that user enters in the amount field"
+
+msgid "رنگ متن دکمه پرداخت:"
+msgstr "Payment Button Text Color:"
+
+msgid "رنگ متن روی دکمه پرداخت"
+msgstr "Color of the text on the payment button"
+
+msgid "رنگ متن توضیحات:"
+msgstr "Description Text Color:"
+
+msgid "رنگ متن درون باکس توضیحات"
+msgstr "Color of the text inside the description box"
+
+msgid "رنگ پس‌زمینه دکمه‌های پیشنهادی:"
+msgstr "Suggested Buttons Background Color:"
+
+msgid "رنگ پس‌زمینه دکمه‌های مبالغ پیشنهادی"
+msgstr "Background color of the suggested amounts buttons"
+
+msgid "رنگ متن دکمه‌های پیشنهادی:"
+msgstr "Suggested Buttons Text Color:"
+
+msgid "رنگ متن درون دکمه‌های مبالغ پیشنهادی"
+msgstr "Text color inside the suggested amounts buttons"
+
+msgid "رنگ متن اطلاعات مبلغ:"
+msgstr "Amount Information Text Color:"
+
+msgid "رنگ متن نمایش حداقل و حداکثر مبلغ"
+msgstr "Color of the minimum and maximum amount display text"
+
+msgid "کل سفارش‌ها"
+msgstr "Total Orders"
+
+msgid "مجموع فروش"
+msgstr "Total Sales"
+
+msgid "میانگین فروش"
+msgstr "Average Sales"
+
+msgid "📅 فیلتر زمانی:"
+msgstr "📅 Time Filter:"
+
+msgid "همه زمان‌ها"
+msgstr "All Times"
+
+msgid "امروز"
+msgstr "Today"
+
+msgid "هفته گذشته"
+msgstr "Last Week"
+
+msgid "ماه گذشته"
+msgstr "Last Month"
+
+msgid "سال گذشته"
+msgstr "Last Year"
+
+msgid "🔍 جستجو:"
+msgstr "🔍 Search:"
+
+msgid "نام، ایمیل یا شماره سفارش..."
+msgstr "Name, email or order number..."
+
+msgid "اعمال فیلتر"
+msgstr "Apply Filter"
+
+msgid "پاک کردن فیلتر"
+msgstr "Clear Filter"
+
+msgid "شماره سفارش"
+msgstr "Order ID"
+
+msgid "نام مشتری"
+msgstr "Customer Name"
+
+msgid "ایمیل"
+msgstr "Email"
+
+msgid "مبلغ"
+msgstr "Amount"
+
+msgid "تاریخ"
+msgstr "Date"
+
+msgid "وضعیت"
+msgstr "Status"
+
+msgid "عملیات"
+msgstr "Actions"
+
+msgid "😔 هیچ سفارشی یافت نشد"
+msgstr "😔 No orders found"
+
+msgid "در بازه زمانی انتخاب شده یا با کلیدواژه جستجو شده، سفارشی ثبت نشده است."
+msgstr "No orders have been registered in the selected time range or with the searched keyword."
+
+msgid "← قبلی"
+msgstr "← Previous"
+
+msgid "بعدی →"
+msgstr "Next →"
+
+msgid "شفافیت:"
+msgstr "Transparency:"
+
+msgid "برای نمایش فرم پرداخت در هر صفحه یا پست، از شورت‌کد زیر استفاده کنید:"
+msgstr "To display the payment form on any page or post, use the shortcode below:"
+
+msgid "🔗 پشتیبانی از لینک‌های حاوی مبلغ"
+msgstr "🔗 Support for Amount-Containing Links"
+
+msgid "این افزونه از لینک‌های حاوی مبلغ پشتیبانی می‌کند. مثال:"
+msgstr "This plugin supports links containing amounts. Example:"
+
+msgid "در این مثال، مبلغ 55000 به صورت خودکار در فیلد مبلغ قرار می‌گیرد."
+msgstr "In this example, the amount 55000 will be automatically placed in the amount field."
+
+msgid "نکته:"
+msgstr "Note:"
+
+msgid "برای استفاده از این قابلیت، یک برگه با نام \"pay\" یا هر نام دلخواهی که می‌خواهید ایجاد کنید و شورت‌کد را در آن قرار دهید."
+msgstr "To use this feature, create a page named \"pay\" or any desired name and place the shortcode in it."
+
+msgid "📋 اطلاعات محصول فعلی"
+msgstr "📋 Current Product Information"
+
+msgid "وضعیت:"
+msgstr "Status:"
+
+msgid "محصول موجود است"
+msgstr "Product exists"
+
+msgid "محصول موجود نیست"
+msgstr "Product does not exist"
+
+msgid "SKU:"
+msgstr "SKU:"
+
+msgid "آخرین به‌روزرسانی:"
+msgstr "Last Updated:"
+
+msgid "این نام از محصول موجود در ووکامرس خوانده شده است."
+msgstr "This name is read from the existing product in WooCommerce."
+
+msgid "توضیحات کوتاه:"
+msgstr "Short Description:"
+
+msgid "توضیحات کوتاه محصول که در سبد خرید نمایش داده می‌شود"
+msgstr "Short description of the product displayed in the cart"
+
+msgid "تصویر محصول:"
+msgstr "Product Image:"
+
+msgid "بدون تصویر"
+msgstr "No Image"
+
+msgid "انتخاب تصویر"
+msgstr "Select Image"
+
+msgid "حذف تصویر"
+msgstr "Remove Image"
+
+msgid "تصویر محصول که در سبد خرید و صورتحساب نمایش داده می‌شود"
+msgstr "Product image displayed in cart and invoice"
+
+msgid "🔄 همگام‌سازی با ووکامرس"
+msgstr "🔄 Sync with WooCommerce"
+
+msgid "برای به‌روزرسانی اطلاعات محصول از ووکامرس کلیک کنید"
+msgstr "Click to update product information from WooCommerce"
+
+msgid "تنظیمات فرم پرداخت سفارشی"
+msgstr "Custom Payment Form Settings"
+
+msgid "فرم پرداخت سفارشی"
+msgstr "Custom Payment Form"
+
+msgid "حداقل مبلغ (%s)"
+msgstr "Minimum Amount (%s)"
+
+msgid "حداکثر مبلغ (%s)"
+msgstr "Maximum Amount (%s)"
+
+msgid "گزینه‌های پیشنهادی"
+msgstr "Suggested Options"
+
+msgid "ارز فعلی: %s"
+msgstr "Current Currency: %s"
+
+msgid "تکمیل شده"
+msgstr "Completed"
+
+msgid "در حال پردازش"
+msgstr "Processing"
+
+msgid "در انتظار"
+msgstr "On Hold"
+
+msgid "در انتظار پرداخت"
+msgstr "Pending Payment"
+
+msgid "لغو شده"
+msgstr "Cancelled"
+
+msgid "بازگردانده شده"
+msgstr "Refunded"
+
+msgid "ناموفق"
+msgstr "Failed"
+
+msgid "مشاهده"
+msgstr "View"
+
+msgid "مثال: %s"
+msgstr "Example: %s"
+
+msgid "ذخیره تنظیمات"
+msgstr "Save Settings"
+
+msgid "پلاگین پیشرفته پرداخت سفارشی و اهدا به کمک ووکامرس - ایجاد فرم‌های پرداخت انعطاف‌پذیر با مبالغ دلخواه. مناسب برای خیریه‌ها، کراودفاندینگ و پرداخت‌های سفارشی و فروش اقساطی در سایت . شامل سیستم گزارش‌گیری جامع، سفارشی‌سازی کامل رنگ‌ها، پشتیبانی از لینک‌های حاوی مبلغ و طراحی ریسپانسیو. از شورت‌کد [custom_payment_form] استفاده کنید."
+msgstr "Advanced Custom Payment & Donation Plugin with WooCommerce - Create flexible payment forms with custom amounts. Perfect for charities, crowdfunding, custom payments, and installment sales on websites. Features comprehensive reporting system, full color customization, amount-containing links support, and responsive design. Use shortcode [custom_payment_form] anywhere."
+
+msgid "پیکربندی"
+msgstr "Configure"
